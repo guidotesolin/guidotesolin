@@ -20,7 +20,7 @@ Digital photo archive of the town of La Pelada, Santa Fe: over 700 historical ph
 
 Next.js, React Server Components, TypeScript, PostgreSQL, Drizzle ORM, Cloudflare R2, Vercel.
 
-### 💸 [Evenly](https://github.com/guidotesolin/evenly)
+### 💸 Evenly · [code](https://github.com/guidotesolin/evenly)
 
 Android household finance app that replaced a couple's budget spreadsheet: monthly fixed costs with their US dollar equivalent, shared expenses split evenly, and a real-time balance. No server code: the business rules live in SQL, protected by Row Level Security. Infrastructure cost of USD 0 per month.
 
